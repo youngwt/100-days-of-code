@@ -10,3 +10,6 @@ Have learnt to about the row / column model of layouts in bootstrap
 Have used some of the special classes for styling basic elements with bootstrap, btn, font awesome
 
 ### R1D2
+
+Completed bootstrap free code camp
+Started algorithms - actually coded regex by hand for once
