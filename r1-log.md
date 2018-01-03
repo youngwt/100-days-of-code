@@ -13,3 +13,7 @@ Have used some of the special classes for styling basic elements with bootstrap,
 
 Completed bootstrap free code camp
 Started algorithms - actually coded regex by hand for once
+
+### R1D3
+
+Completed a few more algorithm challenges. Mainly used JS string and array operations
