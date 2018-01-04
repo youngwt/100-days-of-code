@@ -17,3 +17,7 @@ Started algorithms - actually coded regex by hand for once
 ### R1D3
 
 Completed a few more algorithm challenges. Mainly used JS string and array operations
+
+### R1D4
+
+Applied bootstrap know how to the planet site chrome extension. Looks better but needs some work. Surprised by how much the DOM has expanded because of bootstrap. Also it may be the cause of some performance issues on my machine!
