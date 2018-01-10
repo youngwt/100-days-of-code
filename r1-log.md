@@ -25,3 +25,7 @@ Applied bootstrap know how to the planet site chrome extension. Looks better but
 ### R1D5
 
 Finished bootstrap styles on the web extension. Still have problems with CORS and chrome extensions with JIRA rest API
+
+### R1D6
+
+Solved issue querying jira, could not query from within a sandbox defined in the extension. Instead brought the javascript out one level, will have to construct the table from jQuery.
