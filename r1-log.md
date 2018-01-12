@@ -29,3 +29,7 @@ Finished bootstrap styles on the web extension. Still have problems with CORS an
 ### R1D6
 
 Solved issue querying jira, could not query from within a sandbox defined in the extension. Instead brought the javascript out one level, will have to construct the table from jQuery.
+
+### R1D7
+
+Finished the planet checkout extension, just need to trim the waste
