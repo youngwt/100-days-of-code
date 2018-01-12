@@ -33,3 +33,7 @@ Solved issue querying jira, could not query from within a sandbox defined in the
 ### R1D7
 
 Finished the planet checkout extension, just need to trim the waste
+
+### R1D8 
+
+Finished chrome extension
