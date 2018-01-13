@@ -37,3 +37,7 @@ Finished the planet checkout extension, just need to trim the waste
 ### R1D8 
 
 Finished chrome extension
+
+### R1D9
+
+Refactored the selenium site checked ready to be reimplemented with DI
